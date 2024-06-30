@@ -17,10 +17,6 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-import lesson5.labsolns.prob1.rulesets.RuleException;
-import lesson5.labsolns.prob1.rulesets.RuleSet;
-import lesson5.labsolns.prob1.rulesets.RuleSetFactory;
-
 public class CDWindow extends JFrame {
 	private JPanel topPanel;
 	private JPanel bottomPanel;
